@@ -10,6 +10,15 @@ Tout comme Neil Armstrong a fait ce pas historique pour l'humanité, vous franch
 
 Le monde numérique sera à jamais divisé en deux époques : avant UNIVERSAL MEDIA HUB, et après.
 
+![image](https://github.com/user-attachments/assets/1d1a4dfc-a965-47d1-988b-01d4b403013d)
+![image](https://github.com/user-attachments/assets/730616aa-1b36-4ead-915d-ce4d2cb2e4a5)
+![image](https://github.com/user-attachments/assets/b3e2814c-ac78-4256-ac76-a08aee918224) ![image](https://github.com/user-attachments/assets/9593f7ea-0e73-4468-bef6-39db206f9d98)
+
+
+
+
+
+
 ## Setup development project
 Install packages on server and client:
 * npm install
